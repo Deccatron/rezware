@@ -14,7 +14,7 @@ export default function FullScreenIframe() {
     return (
         <>
             <Head>
-                <title>Rezware | Reborn</title>
+                <title>Rezware | Internal 89 UNC!</title>
             </Head>
             <iframe 
                 src="https://sociable-places-237386.framer.app" 
