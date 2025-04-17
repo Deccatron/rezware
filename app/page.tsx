@@ -17,7 +17,7 @@ export default function FullScreenIframe() {
                 <title>Rezware | Reborn</title>
             </Head>
             <iframe 
-                src="https://same-guardrails-417169.framer.app/" 
+                src="https://sociable-places-237386.framer.app" 
                 style={{ position: "fixed", top: 0, left: 0, width: "100vw", height: "100vh", border: "none" }}
                 allowFullScreen
             ></iframe>
