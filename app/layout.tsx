@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rezware | Internal 89 UNC",
+  title: "Rezware | Internal 99% UNC",
   description: "RezWare – the #1 trusted free internal Roblox executor. With 89% UNC support and flexible freemium + premium tiers, it’s built for serious scripters.",
 };
 
