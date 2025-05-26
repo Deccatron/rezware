@@ -17,7 +17,7 @@ export default function FullScreenIframe() {
                 <title>Rezware | Internal 89 UNC!</title>
             </Head>
             <iframe 
-                src="https://sociable-places-237386.framer.app" 
+                src="https://lovely-area-810581.framer.app" 
                 style={{ position: "fixed", top: 0, left: 0, width: "100vw", height: "100vh", border: "none" }}
                 allowFullScreen
             ></iframe>
